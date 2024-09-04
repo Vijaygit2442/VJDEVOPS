@@ -1,2 +1,2 @@
 hi from commit 1
-
+hi from commit 2
